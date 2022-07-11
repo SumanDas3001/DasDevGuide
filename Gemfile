@@ -14,7 +14,7 @@ gem 'coffee-rails', '~> 4.2'
 gem 'turbolinks', '~> 5'
 gem 'jbuilder', '~> 2.5'
 gem 'bootsnap', '>= 1.1.0', require: false
-gem 'bootstrap', '~> 4.0.0'
+gem 'bootstrap', '~> 4.3.1'
 gem 'jquery-rails', '~> 4.3', '>= 4.3.5'
 gem 'codecamp_view_tool', git: 'https://github.com/SumanDas3001/codecamp_view_tool'
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
