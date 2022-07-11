@@ -267,7 +267,8 @@ GEM
       byebug (~> 11.0)
       pry (~> 0.13.0)
     public_suffix (4.0.6)
-    puma (3.12.6)
+    puma (4.3.12)
+      nio4r (~> 2.0)
     pygments.rb (2.3.0)
     racc (1.6.0)
     rack (2.2.3)
@@ -414,7 +415,7 @@ DEPENDENCIES
   petergate (~> 1.6, >= 1.6.3)
   pg (>= 0.18, < 2.0)
   pry-byebug (~> 3.4)
-  puma (~> 3.11)
+  puma (~> 4.3)
   pygments.rb
   rails (~> 5.2.2, >= 5.2.2.1)
   redcarpet (~> 3.5)
